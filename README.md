@@ -1,0 +1,1 @@
+# spacy-deployment-aws
